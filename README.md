@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Krizzel87, 
+- 👋 Hi, I’m Krizzel87, 
 - i work as PLC programmer since 2019.
-- over 10 years experience in industrial electrical,
+- experience in industrial electrical over 15 years ,
 
 ## PLC Langueses      : AWL/STL, KOP, VBS, FUB, a little bit Graph. Step7 / WinCC / TIA /  
-## private Programmer : most CPP, a bit Python to make life easier^^ , oldschool HTML/php
+## private Programmer : most CPP for MCUs, a bit Python to make life easier inr ROS2^^ , oldschool HTML/php and minimal js for Iot
 ## OS                 : Linux / Ubuntu / Win10 / 
 
 - 👀 I’m interested now in embbedSystems, Iot, Robotics,Kinematics,AI/ML. 
